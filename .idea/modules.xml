@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kitchen_employee_schedule.iml" filepath="$PROJECT_DIR$/.idea/modules/kitchen_employee_schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kitchen_employee_schedule.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kitchen_employee_schedule.app.iml" />
+    </modules>
+  </component>
+</project>
